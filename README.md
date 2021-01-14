@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I know C++/C#. TODO lol
+
 <!--
 **osdeverr/osdeverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
